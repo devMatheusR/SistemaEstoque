@@ -1,0 +1,45 @@
+C:\Users\Helen\Documents\Helen\SENAI CIMATEC - DS\3 SEMESTRE\Desenvolvimento de Sistemas 2\Sistema de Estoque\Sistema de Estoque\bin\Debug\Sistema de Estoque.exe.config
+C:\Users\Helen\Documents\Helen\SENAI CIMATEC - DS\3 SEMESTRE\Desenvolvimento de Sistemas 2\Sistema de Estoque\Sistema de Estoque\bin\Debug\Sistema de Estoque.exe
+C:\Users\Helen\Documents\Helen\SENAI CIMATEC - DS\3 SEMESTRE\Desenvolvimento de Sistemas 2\Sistema de Estoque\Sistema de Estoque\bin\Debug\Sistema de Estoque.pdb
+C:\Users\Helen\Documents\Helen\SENAI CIMATEC - DS\3 SEMESTRE\Desenvolvimento de Sistemas 2\Sistema de Estoque\Sistema de Estoque\obj\Debug\Sistema de Estoque.csproj.AssemblyReference.cache
+C:\Users\Helen\Documents\Helen\SENAI CIMATEC - DS\3 SEMESTRE\Desenvolvimento de Sistemas 2\Sistema de Estoque\Sistema de Estoque\obj\Debug\Sistema_de_Estoque.Form1.resources
+C:\Users\Helen\Documents\Helen\SENAI CIMATEC - DS\3 SEMESTRE\Desenvolvimento de Sistemas 2\Sistema de Estoque\Sistema de Estoque\obj\Debug\Sistema_de_Estoque.Properties.Resources.resources
+C:\Users\Helen\Documents\Helen\SENAI CIMATEC - DS\3 SEMESTRE\Desenvolvimento de Sistemas 2\Sistema de Estoque\Sistema de Estoque\obj\Debug\Sistema de Estoque.csproj.GenerateResource.cache
+C:\Users\Helen\Documents\Helen\SENAI CIMATEC - DS\3 SEMESTRE\Desenvolvimento de Sistemas 2\Sistema de Estoque\Sistema de Estoque\obj\Debug\Sistema de Estoque.csproj.CoreCompileInputs.cache
+C:\Users\Helen\Documents\Helen\SENAI CIMATEC - DS\3 SEMESTRE\Desenvolvimento de Sistemas 2\Sistema de Estoque\Sistema de Estoque\obj\Debug\Sistema de Estoque.exe
+C:\Users\Helen\Documents\Helen\SENAI CIMATEC - DS\3 SEMESTRE\Desenvolvimento de Sistemas 2\Sistema de Estoque\Sistema de Estoque\obj\Debug\Sistema de Estoque.pdb
+C:\Users\Helen\Documents\Helen\SENAI CIMATEC - DS\3 SEMESTRE\Desenvolvimento de Sistemas 2\Sistema de Estoque\Sistema de Estoque\bin\Debug\MySql.Data.dll
+C:\Users\Helen\Documents\Helen\SENAI CIMATEC - DS\3 SEMESTRE\Desenvolvimento de Sistemas 2\Sistema de Estoque\Sistema de Estoque\bin\Debug\Google.Protobuf.dll
+C:\Users\Helen\Documents\Helen\SENAI CIMATEC - DS\3 SEMESTRE\Desenvolvimento de Sistemas 2\Sistema de Estoque\Sistema de Estoque\bin\Debug\Zstandard.Net.dll
+C:\Users\Helen\Documents\Helen\SENAI CIMATEC - DS\3 SEMESTRE\Desenvolvimento de Sistemas 2\Sistema de Estoque\Sistema de Estoque\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Helen\Documents\Helen\SENAI CIMATEC - DS\3 SEMESTRE\Desenvolvimento de Sistemas 2\Sistema de Estoque\Sistema de Estoque\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Helen\Documents\Helen\SENAI CIMATEC - DS\3 SEMESTRE\Desenvolvimento de Sistemas 2\Sistema de Estoque\Sistema de Estoque\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Helen\Documents\Helen\SENAI CIMATEC - DS\3 SEMESTRE\Desenvolvimento de Sistemas 2\Sistema de Estoque\Sistema de Estoque\bin\Debug\System.Memory.dll
+C:\Users\Helen\Documents\Helen\SENAI CIMATEC - DS\3 SEMESTRE\Desenvolvimento de Sistemas 2\Sistema de Estoque\Sistema de Estoque\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Helen\Documents\Helen\SENAI CIMATEC - DS\3 SEMESTRE\Desenvolvimento de Sistemas 2\Sistema de Estoque\Sistema de Estoque\bin\Debug\System.Buffers.dll
+C:\Users\Helen\Documents\Helen\SENAI CIMATEC - DS\3 SEMESTRE\Desenvolvimento de Sistemas 2\Sistema de Estoque\Sistema de Estoque\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Helen\Documents\Helen\SENAI CIMATEC - DS\3 SEMESTRE\Desenvolvimento de Sistemas 2\Sistema de Estoque\Sistema de Estoque\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Helen\Documents\Helen\SENAI CIMATEC - DS\3 SEMESTRE\Desenvolvimento de Sistemas 2\Sistema de Estoque\Sistema de Estoque\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Helen\Documents\Helen\SENAI CIMATEC - DS\3 SEMESTRE\Desenvolvimento de Sistemas 2\Sistema de Estoque\Sistema de Estoque\bin\Debug\MySql.Data.xml
+C:\Users\mathe\Downloads\Sistema de Estoque\Sistema de Estoque\bin\Debug\Sistema de Estoque.exe.config
+C:\Users\mathe\Downloads\Sistema de Estoque\Sistema de Estoque\bin\Debug\Sistema de Estoque.exe
+C:\Users\mathe\Downloads\Sistema de Estoque\Sistema de Estoque\bin\Debug\Sistema de Estoque.pdb
+C:\Users\mathe\Downloads\Sistema de Estoque\Sistema de Estoque\bin\Debug\Google.Protobuf.dll
+C:\Users\mathe\Downloads\Sistema de Estoque\Sistema de Estoque\bin\Debug\Zstandard.Net.dll
+C:\Users\mathe\Downloads\Sistema de Estoque\Sistema de Estoque\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\mathe\Downloads\Sistema de Estoque\Sistema de Estoque\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\mathe\Downloads\Sistema de Estoque\Sistema de Estoque\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\mathe\Downloads\Sistema de Estoque\Sistema de Estoque\bin\Debug\System.Memory.dll
+C:\Users\mathe\Downloads\Sistema de Estoque\Sistema de Estoque\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\mathe\Downloads\Sistema de Estoque\Sistema de Estoque\bin\Debug\System.Buffers.dll
+C:\Users\mathe\Downloads\Sistema de Estoque\Sistema de Estoque\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\mathe\Downloads\Sistema de Estoque\Sistema de Estoque\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\mathe\Downloads\Sistema de Estoque\Sistema de Estoque\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\mathe\Downloads\Sistema de Estoque\Sistema de Estoque\bin\Debug\MySql.Data.xml
+C:\Users\mathe\Downloads\Sistema de Estoque\Sistema de Estoque\obj\Debug\Sistema de Estoque.csproj.AssemblyReference.cache
+C:\Users\mathe\Downloads\Sistema de Estoque\Sistema de Estoque\obj\Debug\Sistema_de_Estoque.Form1.resources
+C:\Users\mathe\Downloads\Sistema de Estoque\Sistema de Estoque\obj\Debug\Sistema_de_Estoque.Properties.Resources.resources
+C:\Users\mathe\Downloads\Sistema de Estoque\Sistema de Estoque\obj\Debug\Sistema de Estoque.csproj.GenerateResource.cache
+C:\Users\mathe\Downloads\Sistema de Estoque\Sistema de Estoque\obj\Debug\Sistema de Estoque.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Downloads\Sistema de Estoque\Sistema de Estoque\obj\Debug\Sistema de Estoque.exe
+C:\Users\mathe\Downloads\Sistema de Estoque\Sistema de Estoque\obj\Debug\Sistema de Estoque.pdb
