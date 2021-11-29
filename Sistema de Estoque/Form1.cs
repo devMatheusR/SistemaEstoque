@@ -69,12 +69,13 @@ namespace Sistema_de_Estoque
                 //MessageBox.Show("Conectado");
 
                 //Comando para inserir dados na tabela
-                MySqlCommand objCmd = new MySqlCommand("delete from produto where nome = ? and descricao = ?;", objetodeconexao);
+                MySqlCommand objCmd = new MySqlCommand("delete from produto where produto.id = ?;", objetodeconexao);
 
                 //Parâmetros dos comandos Sql
-                objCmd.Parameters.Add("@nome", MySqlDbType.VarChar, 45).Value = nome.Text;
+                objCmd.Parameters.Add("@id", MySqlDbType.Int32, 11).Value = IdBox.Text;
+                //objCmd.Parameters.Add("@nome", MySqlDbType.VarChar, 45).Value = nome.Text;
                 //objCmd.Parameters.Add("@valor", MySqlDbType.Float, 14).Value = textBox1.Text;
-                objCmd.Parameters.Add("@descricao", MySqlDbType.VarChar, 45).Value = textBox2.Text;
+                //objCmd.Parameters.Add("@descricao", MySqlDbType.VarChar, 45).Value = textBox2.Text;
                 //objCmd.Parameters.Add("@quantidade", MySqlDbType.Int32, 11).Value = textBox3.Text;
                 //objCmd.Parameters.Add("@tipo", MySqlDbType.VarChar, 45).Value = comboBox1.SelectedItem.ToString();
 
@@ -104,14 +105,15 @@ namespace Sistema_de_Estoque
                 //MessageBox.Show("Conectado");
 
                 //Comando para inserir dados na tabela
-                MySqlCommand objCmd = new MySqlCommand("update produto set quantidade = ?, descricao = ?, valor = ? where nome = ?;", objetodeconexao);
+                MySqlCommand objCmd = new MySqlCommand("update produto set quantidade = ?, descricao = ?, valor = ? where produto.id = ?;", objetodeconexao);
 
                 //Parâmetros dos comandos Sql
                 objCmd.Parameters.Add("@quantidade", MySqlDbType.Int32, 11).Value = textBox3.Text;
                 objCmd.Parameters.Add("@descricao", MySqlDbType.VarChar, 45).Value = textBox2.Text;     
                 objCmd.Parameters.Add("@valor", MySqlDbType.Float, 14).Value = textBox1.Text;
-                objCmd.Parameters.Add("@nome", MySqlDbType.VarChar, 45).Value = nome.Text;
-          
+                objCmd.Parameters.Add("@id", MySqlDbType.Int32, 11).Value = IdBox.Text;
+                //.Parameters.Add("@nome", MySqlDbType.VarChar, 45).Value = nome.Text;
+
                 //objCmd.Parameters.Add("@descricao", MySqlDbType.VarChar, 45).Value = textBox2.Text;
                 //objCmd.Parameters.Add("@tipo", MySqlDbType.VarChar, 45).Value = comboBox1.SelectedItem.ToString();
 
@@ -185,5 +187,14 @@ namespace Sistema_de_Estoque
 
         }
 
+        private void label8_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void IdBox_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

@@ -6,7 +6,7 @@ using System.Windows.Forms;
 
 namespace Sistema_de_Estoque
 {
-    static class Program
+    class Program : Interface1
     {
         /// <summary>
         /// Ponto de entrada principal para o aplicativo.
@@ -17,6 +17,23 @@ namespace Sistema_de_Estoque
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
+
+
+        }
+
+        public void AdicionarProduto()
+        {
+            throw new NotImplementedException();
+        }
+
+        public void RemoverProduto()
+        {
+            throw new NotImplementedException();
+        }
+
+        public void UpdateProduto()
+        {
+            throw new NotImplementedException();
         }
     }
 }
